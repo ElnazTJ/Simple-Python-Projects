@@ -27,5 +27,3 @@ The **Weather App** relies on an external weather API. Depending on your network
 ## 📚 Purpose
 
 These projects are part of my Python learning journey and were created mainly for practice, experimentation, and having fun while learning.
-
-More projects will be added as I continue learning and building with Python.
